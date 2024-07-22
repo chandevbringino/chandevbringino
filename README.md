@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandevbringino
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Combine, Flutter, and Swift frameworks
+- 🌱 I’m currently learning Combine, Flutter, and other Swift frameworks
 - ⚡ Fun fact: I love riding my motorcycle at night.
 
 <!---
