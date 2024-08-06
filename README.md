@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandevbringino
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Combine, Flutter, and other Swift frameworks
-- ⚡ Fun fact: I love riding my motorcycle at night somewhere in Tagaytay. 🌙🌳🍔
+- ⚡ Fun fact: I love riding my motorcycle at night somewhere in Tagaytay. 🌙🌳🍔😶‍🌫️
 
 <!---
 chandevbringino/chandevbringino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
